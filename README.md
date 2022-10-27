@@ -44,3 +44,8 @@ Step 7) Once installation finished, you should receive a message screen that PyC
 
 
 Step 8) Click Finish
+
+### Setup UI Automation
+
+1. Install `selenium` using command `pip install selenium`
+2. Install `pytest` by running command `pip install pytest`
